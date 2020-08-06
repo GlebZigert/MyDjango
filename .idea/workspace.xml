@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ceee9e33-a27a-44e9-acc9-835c170145cf" name="Default Changelist" comment="Add template for bboard">
-      <change afterPath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/by_rubric.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/by_rubric.html" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/by_rubric.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/samplesite/bboard/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samplesite/bboard/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +49,6 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
@@ -76,15 +93,27 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add template for bboard" />
     <option name="LAST_COMMIT_MESSAGE" value="Add template for bboard" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="768" y="342" width="447" height="511" key="FileChooserDialogImpl" timestamp="1596701399958">
+    <state x="768" y="342" width="447" height="511" key="FileChooserDialogImpl" timestamp="1596717093304">
       <screen x="65" y="24" width="1855" height="1176" />
     </state>
-    <state x="768" y="342" width="447" height="511" key="FileChooserDialogImpl/65.24.1855.1176/1920.0.1280.1024@65.24.1855.1176" timestamp="1596701399958" />
+    <state x="768" y="342" width="447" height="511" key="FileChooserDialogImpl/65.24.1855.1176/1920.0.1280.1024@65.24.1855.1176" timestamp="1596717093304" />
     <state x="592" y="335" key="Vcs.Push.Dialog.v2" timestamp="1596701483954">
       <screen x="65" y="24" width="1855" height="1176" />
     </state>

@@ -20,18 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ceee9e33-a27a-44e9-acc9-835c170145cf" name="Default Changelist" comment="Add template for bboard">
-      <change afterPath="$PROJECT_DIR$/samplesite/bboard/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/old_index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samplesite/bboard/templates/layout/basic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samplesite/bboard/static/bboard/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samplesite/bboard/static/bboard/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samplesite/bboard/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/by_rubric.html" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/by_rubric.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samplesite/bboard/templates/layout/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/templates/layout/basic.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/samplesite/bboard/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samplesite/bboard/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samplesite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samplesite/samplesite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/samplesite/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +51,12 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/samplesite/bboard/static/bboard" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/samplesite/bboard/static/bboard" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/samplesite/bboard/templates/bboard" />
     </key>
@@ -123,6 +120,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add template for bboard" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="699" y="401" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596779146607">
+      <screen x="65" y="24" width="1855" height="1176" />
+    </state>
+    <state x="699" y="401" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1855.1176/1920.0.1280.1024@65.24.1855.1176" timestamp="1596779146607" />
     <state x="768" y="342" width="447" height="511" key="FileChooserDialogImpl" timestamp="1596717093304">
       <screen x="65" y="24" width="1855" height="1176" />
     </state>

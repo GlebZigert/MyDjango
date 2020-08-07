@@ -1,12 +1,18 @@
+{% load static %}
+
 <!DOCTYPE html>
 <html>
     <head>
+        <link rel="stylesheet" type="text/css"
+        href="{% static 'bboard/style.css' %}">
         <meta http-equiv="Content-Type"
         content="text/html;charset=utf-8">
         <title> {% block title %} Главная -доска обьявлений {% endblock %} </title>
     </head>
     <body>
-    <header>Обьявления</header>
+    <header>
+    <h1>Обьявления</h1>
+    </header>
     <nav>
         <a href="{% url 'index' %}">Главная</a>
         <a href="{% url 'add' %}">Добавить</a>

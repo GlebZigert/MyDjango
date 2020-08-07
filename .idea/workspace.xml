@@ -20,10 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ceee9e33-a27a-44e9-acc9-835c170145cf" name="Default Changelist" comment="Add template for bboard">
+      <change afterPath="$PROJECT_DIR$/samplesite/bboard/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/old_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samplesite/bboard/templates/layout/basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samplesite/bboard/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/by_rubric.html" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/by_rubric.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/templates/bboard/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/samplesite/bboard/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samplesite/bboard/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/bboard/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samplesite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/samplesite/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +58,11 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/samplesite/bboard/templates/bboard" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">

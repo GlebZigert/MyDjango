@@ -23,3 +23,18 @@ def by_rubric(request, rubric_id):
     context={'bbs':bbs,'rubrics':rubrics,'current_rubric':current_rubric}
     return render(request,'bboard/by_rubric.html',context)
 
+
+from django.views.generic.edit import CreateView
+from .forms import BbForm
+success_url='/bboard/'
+
+class BbCreateView(CreateView):
+    template_name = 'bboard/create.html'
+    form_class = BbForm
+    success_url = '/bboard/'
+
+    def get_context_data(self,**kwargs):
+        context = super().get_context_data(**kwargs)
+        context['rubrica']=Rubric.objects.all()
+        return context
+
